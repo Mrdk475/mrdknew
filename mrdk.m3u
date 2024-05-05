@@ -348,7 +348,7 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index_9.m3u8
 
 #EXTINF:1 tvg-logo="https://www.EPICon.in/img/new-show-box-logo.png" group-title="EPIC ON",Show Box
-https://EPIConvh.s.llnwi.net/showbox/master_1024.m3u8
+https://EPIConvh.s.llnwi.net/showbox/master_1080.m3u8
 
 #EXTINF:1 tvg-logo="https://www.EPICon.in/img/new_filamchi_logo.png" group-title="EPIC ON",Filamachi Bhojpuri 
 https://EPIConvh.s.llnwi.net/filamchi/master_1024.m3u8
@@ -361,7 +361,7 @@ https://epiconvh.s.llnwi.net/epic/master.m3u8
 
 #EXTINF:1 tvg-logo="https://www.EPICon.in/img/gubbare-logo.png" group-title="EPIC ON",Gubbare
 https://EPIConvh.s.llnwi.net/gubbare/master_1080.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="===== INDIA UK =====" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",===== INDIA UK =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK =====" tvg-logo="http://vodkom.com:25461/Logo/UK/" group-title="MOVIES UK",=====UK =====
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: STAR PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/STAR_PLUS_TV.png" group-title="AS INDIA",IN-UK: STAR PLUS HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100798
@@ -433,7 +433,7 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100830
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100831
 #EXTINF:-1 tvg-ID="" tvg-name="IN-UK: KTV" tvg-logo="http://vodkom.com:25461/Logo/INDIA/KTV_IN.png" group-title="AS INDIA",IN-UK: KTV
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100832
-#EXTINF:-1 tvg-ID="" tvg-name="===== GENERAL =====" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",===== GENERAL =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== GENERAL =====" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="MOVIES HINDI",===== GENERAL =====
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: DESI PLUS" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS INDIA",HINDI: DESI PLUS
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96168
@@ -953,8 +953,22 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/93448
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/93449
 #EXTINF:-1 tvg-ID="" tvg-name="PK-VIP: KAY-2" tvg-logo="" group-title="AS PAKISTAN",PK-VIP: KAY-2
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/93450
-#EXTINF:-1 tvg-ID="" tvg-name="===== BANGLA UK =====" tvg-logo="" group-title="AS BANGLA",===== BANGLA UK =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== BANGLA UK =====" tvg-logo="" group-title="AS BANGLA,===== BANGLA UK =====
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Mon TV Music(BD)
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fccu16-1.fna.fbcdn.net/v/t39.3080…vbkRcjuUXVgDYHcZ4ZNjqot-qjadnWJSoE5dg&oe=663D6A18" group-title="LOCAL BANGLA",D24 BANGLA
+http://103.151.157.112:1935/manik/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5pK6jhNsENck0sGY-Gv2IIsGpmrRxZl91s0rzagAjg&s" group-title="LOCAL BANGLA",BANGLA VISION (YT)
+https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolgyjxzgRJmZpSnvua-V-BUbynLQL7AW3IQgrOiAB-g&s" group-title="LOCAL BANGLA",SRISTI TV
+http://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA-UK: CHANNEL S" tvg-logo="" group-title="AS BANGLA",BANGLA-UK: CHANNEL S
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100631
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA-UK: TV UK" tvg-logo="" group-title="AS BANGLA",BANGLA-UK: TV UK
@@ -969,13 +983,15 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100636
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100637
 #EXTINF:-1 tvg-ID="" tvg-name="===== BANGLA ASIA =====" tvg-logo="" group-title="AS BANGLA",===== BANGLA ASIA =====
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA HD
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="AS BANGLA",BANGLA: COLORS BANGLA HD
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100639
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE 24 GHANTA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE 24 GHANTA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJjB9Mr44pu35Q0aBCm6EYtpJoMNBypZlWWou-DbiQg&s" group-title="AS BANGLA",REPUBLIC BANGLA
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100640
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100641
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s" group-title="AS BANGLA",BANGLA: STAR JALSHA
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100642
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: AAKAASH BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: AAKAASH BANGLA
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100643
@@ -983,7 +999,11 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100643
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100644
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NAGORIK TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NAGORIK TV
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100645
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ABP ANANDA" tvg-logo="" group-title="AS BANGLA",BANGLA: ABP ANANDA
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="AS BANGLA",ABP ANANDA
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IpfFPYOoVTb9SODonLfC_ufOv5mhwy-T0hEoMhoZxA&s" group-title="AS BANGLA",NEWS 18 BANGLA
+https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ABP ANANDA 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="AS BANGLA",BANGLA: ABP ANANDA
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100646
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN BANGLA
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100648
@@ -1021,6 +1041,8 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100669
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100670
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DHOOM MUSIC" tvg-logo="" group-title="AS BANGLA",BANGLA: DHOOM MUSIC
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100671
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSw4jG8Fs_1ksSh1EuTdzC1hLJHVT50Xel-KA9ObPM&s" group-title="AS BANGLA",R PLUS GOLD
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: EKATTOR TV" tvg-logo="" group-title="AS BANGLA",BANGLA: EKATTOR TV
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100673
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ETV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ETV BANGLA
@@ -1101,16 +1123,21 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100742
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100743
 #EXTINF:-1 tvg-ID="" tvg-name=" DISCOVERY HD BENGALI" tvg-logo="" group-title="AS BANGLA", DISCOVERY HD BENGALI
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100753
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SUN BANGLA
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png" group-title="AS BANGLA",BANGLA: SUN BANGLA
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100754
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TBN 24" tvg-logo="" group-title="AS BANGLA",BANGLA: TBN 24
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100756
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: iTV UK" tvg-logo="" group-title="AS BANGLA",BANGLA: iTV UK
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100757
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ENTER 10 BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ENTER 10 BANGLA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s" group-title="AS BANGLA",ENTERR 10 BANGLA
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ENTER 10 BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s" group-title="AS BANGLA",BANGLA: ENTER 10 BANGLA
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100759
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL TT" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL TT
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100760
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStd15nT6p_uWQa__3gvxbGzOP1czLAlLH5yLZRX6g&s" group-title="AS BANGLA",RTV MUSIC
+https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="===== SPORTS GENERAL =====" tvg-logo="" group-title="AS SPORTS",===== SPORTS GENERAL =====
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="AS SPORTS",SPORTS: D SPORTS HD
