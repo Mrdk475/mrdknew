@@ -1,7 +1,21 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="MRDK Tv" tvg-logo="https://i.ibb.co/0Gz2gLd/pngimg-com-telegram-PNG28.png" group-title="",MRDK Tv
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4 HD B2" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-hd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 HD B2
-http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/576496
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Mon TV Music(BD)
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fccu16-1.fna.fbcdn.net/v/t39.3080…vbkRcjuUXVgDYHcZ4ZNjqot-qjadnWJSoE5dg&oe=663D6A18" group-title="LOCAL BANGLA",D24 BANGLA
+http://103.151.157.112:1935/manik/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5pK6jhNsENck0sGY-Gv2IIsGpmrRxZl91s0rzagAjg&s" group-title="LOCAL BANGLA",BANGLA VISION (YT)
+https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolgyjxzgRJmZpSnvua-V-BUbynLQL7AW3IQgrOiAB-g&s" group-title="LOCAL BANGLA",SRISTI TV
+http://sristi1.livebox.co.in/sristihls/live.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="===== BENGALI ===== " tvg-logo="" group-title="AS SOUTH INDIA",===== BENGALI ===== 
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: COLORS BANGLA HD" tvg-logo="" group-title="AS SOUTH INDIA",BENGALI: COLORS BANGLA HD
@@ -834,20 +848,6 @@ http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/93441
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== BANGLA UK =====" tvg-logo="" group-title="AS BANGLA,===== BANGLA UK =====
 https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Mon TV Music(BD)
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Digital
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fccu16-1.fna.fbcdn.net/v/t39.3080…vbkRcjuUXVgDYHcZ4ZNjqot-qjadnWJSoE5dg&oe=663D6A18" group-title="LOCAL BANGLA",D24 BANGLA
-http://103.151.157.112:1935/manik/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5pK6jhNsENck0sGY-Gv2IIsGpmrRxZl91s0rzagAjg&s" group-title="LOCAL BANGLA",BANGLA VISION (YT)
-https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolgyjxzgRJmZpSnvua-V-BUbynLQL7AW3IQgrOiAB-g&s" group-title="LOCAL BANGLA",SRISTI TV
-http://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA-UK: CHANNEL S" tvg-logo="" group-title="AS BANGLA",BANGLA-UK: CHANNEL S
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100631
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA-UK: TV UK" tvg-logo="" group-title="AS BANGLA",BANGLA-UK: TV UK
@@ -1639,6 +1639,172 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BOLLYWOOD CLASSIC CINEMA 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9129
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",DESI TADKA 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=8842
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",SOUTH TALKIES 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=8841
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BIGG BOSS 17 - LIVE 
+https://allinonereborn.tech/spicetv.m3u8?id=17116
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies | HINDI",BIGG BOSS OTT2 - BEDROOM 
+https://allinonereborn.tech/spicetv.m3u8?id=17445
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies | HINDI",BIGG BOSS OTT2 - BATHROOM 
+https://allinonereborn.tech/spicetv.m3u8?id=17448
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",HINDI SOUTH DUBBED HITS HD 
+https://allinonereborn.tech/spicetv.m3u8?id=9135
+#EXTINF:-1 tvg-id="in_stargoldselecthd.in" tvg-logo="" group-title="Hindi Movies | HINDI",STAR GOLD SELECT 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=4030
+#EXTINF:-1 tvg-id="in_stargoldhd2.in" tvg-logo="" group-title="Hindi Movies | HINDI",STAR GOLD 2 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9140
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BBO US 
+https://allinonereborn.tech/spicetv.m3u8?id=9204
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BBO UK 
+https://allinonereborn.tech/spicetv.m3u8?id=9203
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BBO FLIX 
+https://allinonereborn.tech/spicetv.m3u8?id=5886
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BBO CLASSIC 
+https://allinonereborn.tech/spicetv.m3u8?id=5885
+#EXTINF:-1 tvg-id="in_andpictures.in" tvg-logo="" group-title="Hindi Movies | HINDI",AND MOVIES HD ASIA 
+https://allinonereborn.tech/spicetv.m3u8?id=4031
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ZEE BOLLYWOOD CANADA 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9132
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",UTSAV GOLD UK 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9136
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",AND XPLOR 
+https://allinonereborn.tech/spicetv.m3u8?id=5884
+#EXTINF:-1 tvg-id="in_colorscineplexhd.in" tvg-logo="" group-title="Hindi Movies | HINDI",COLORS CINEPLEX US 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9152
+#EXTINF:-1 tvg-id="uk_rishteycineplex.uk" tvg-logo="" group-title="Hindi Movies | HINDI",COLORS CINEPLEX UK 
+https://allinonereborn.tech/spicetv.m3u8?id=9153
+#EXTINF:-1 tvg-id="in_colorscineplexhd.in" tvg-logo="" group-title="Hindi Movies | HINDI",COLORS CINEPLEX 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=635
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",COLORS CINEPLEX BOLLWOOD 
+https://allinonereborn.tech/spicetv.m3u8?id=9154
+#EXTINF:-1 tvg-id="in_sonymaxhd.in" tvg-logo="" group-title="Hindi Movies | HINDI",SONY MAX USA 
+https://allinonereborn.tech/spicetv.m3u8?id=5042
+#EXTINF:-1 tvg-id="uk_setmax.uk" tvg-logo="" group-title="Hindi Movies | HINDI",SONY MAX UK 
+https://allinonereborn.tech/spicetv.m3u8?id=6719
+#EXTINF:-1 tvg-id="in_sonymaxhd.in" tvg-logo="" group-title="Hindi Movies | HINDI",SONY MAX HD IN 
+https://allinonereborn.tech/spicetv.m3u8?id=644
+#EXTINF:-1 tvg-id="in_sonymax2.in" tvg-logo="" group-title="Hindi Movies | HINDI",SONY MAX 2 
+https://allinonereborn.tech/spicetv.m3u8?id=5891
+#EXTINF:-1 tvg-id="in_tataskyclassiccinema.in" tvg-logo="" group-title="Hindi Movies | HINDI",TATA SKY CLASSIC CINEMA 
+https://allinonereborn.tech/spicetv.m3u8?id=8994
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",TATA SKY HOLLYWOOD LOCAL 
+https://allinonereborn.tech/spicetv.m3u8?id=9511
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",MOVIES ACTIVE 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=637
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",MOVIES ACTIVE US 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9170
+#EXTINF:-1 tvg-id="in_andpictures.in" tvg-logo="" group-title="Hindi Movies | HINDI",AND MOVIES HD USA 
+https://allinonereborn.tech/spicetv.m3u8?id=9141
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",MINIPLEX US 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9223
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",MINIPLEX 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=640
+#EXTINF:-1 tvg-id="in_stargoldselecthd.in" tvg-logo="" group-title="Hindi Movies | HINDI",STAR GOLD SELECT US 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9137
+#EXTINF:-1 tvg-id="in_stargoldhd.in" tvg-logo="" group-title="Hindi Movies | HINDI",STAR GOLD USA 
+https://allinonereborn.tech/spicetv.m3u8?id=9138
+#EXTINF:-1 tvg-id="uk_stargold.uk" tvg-logo="" group-title="Hindi Movies | HINDI",STAR GOLD UK 
+https://allinonereborn.tech/spicetv.m3u8?id=9139
+#EXTINF:-1 tvg-id="in_stargoldhd.in" tvg-logo="" group-title="Hindi Movies | HINDI",STAR GOLD HD 
+https://allinonereborn.tech/spicetv.m3u8?id=646
+#EXTINF:-1 tvg-id="in_stargoldhd2.in" tvg-logo="" group-title="Hindi Movies | HINDI",STAR GOLD 2 
+https://allinonereborn.tech/spicetv.m3u8?id=5700
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",NAZARA 
+https://allinonereborn.tech/spicetv.m3u8?id=752
+#EXTINF:-1 tvg-id="us_zeecinema.us" tvg-logo="" group-title="Hindi Movies | HINDI",ZEE CINEMA USA 
+https://allinonereborn.tech/spicetv.m3u8?id=2665
+#EXTINF:-1 tvg-id="in_zeecinemaindiahd.in" tvg-logo="" group-title="Hindi Movies | HINDI",ZEE CINEMA UK 
+https://allinonereborn.tech/spicetv.m3u8?id=2677
+#EXTINF:-1 tvg-id="in_zeecinemaindiahd.in" tvg-logo="" group-title="Hindi Movies | HINDI",ZEE CINEMA HD 
+https://allinonereborn.tech/spicetv.m3u8?id=631
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ZEE CLASSIC 
+https://allinonereborn.tech/spicetv.m3u8?id=6314
+#EXTINF:-1 tvg-id="in_zeebollywood.in" tvg-logo="" group-title="Hindi Movies | HINDI",ZEE BOLLYWOOD 
+https://allinonereborn.tech/spicetv.m3u8?id=961
+#EXTINF:-1 tvg-id="in_zeeaction.in" tvg-logo="" group-title="Hindi Movies | HINDI",ZEE ACTION 
+https://allinonereborn.tech/spicetv.m3u8?id=960
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",GOLDMINES 
+https://allinonereborn.tech/spicetv.m3u8?id=9157
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",GOLDMINES BOLLYWOOD 
+https://allinonereborn.tech/spicetv.m3u8?id=9158
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",CINEMA TV 
+https://allinonereborn.tech/spicetv.m3u8?id=759
+#EXTINF:-1 tvg-id="in_manoranjanmovies.in" tvg-logo="" group-title="Hindi Movies | HINDI",MANORANJAN MOVIES SD 
+https://allinonereborn.tech/spicetv.m3u8?id=9217
+#EXTINF:-1 tvg-id="us_b4umovies.us" tvg-logo="" group-title="Hindi Movies | HINDI",B4U MOVIES USA 
+https://allinonereborn.tech/spicetv.m3u8?id=9206
+#EXTINF:-1 tvg-id="uk_b4umovies.uk" tvg-logo="" group-title="Hindi Movies | HINDI",B4U MOVIES UK 
+https://allinonereborn.tech/spicetv.m3u8?id=9205
+#EXTINF:-1 tvg-id="in_b4umovies.in" tvg-logo="" group-title="Hindi Movies | HINDI",B4U MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=5272
+#EXTINF:-1 tvg-id="in_mahamovie.in" tvg-logo="" group-title="Hindi Movies | HINDI",MAHA MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=802
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",MOVIES HOUSE 
+https://allinonereborn.tech/spicetv.m3u8?id=801
+#EXTINF:-1 tvg-id="in_starutsavmovies.in" tvg-logo="" group-title="Hindi Movies | HINDI",STAR UTSAV MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=804
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",MANORANJAN GRAND 
+https://allinonereborn.tech/spicetv.m3u8?id=9143
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",EVERGREEN CLASSIC 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=638
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",EVERGREEN CLASSIC US 
+https://allinonereborn.tech/spicetv.m3u8?id=9212
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BOLLYWOOD PREMIERE US 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9133
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BOLLYWOOD HIT MOVIES HD 
+https://allinonereborn.tech/spicetv.m3u8?id=9134
+#EXTINF:-1 tvg-id="in_enterr10.in" tvg-logo="" group-title="Hindi Movies | HINDI",ENTERR 10 MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=749
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",DANGAL 
+https://allinonereborn.tech/spicetv.m3u8?id=5780
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",CLASSIC HINDI MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=9162
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BFLIX MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=9207
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",BOX CINEMA 
+https://allinonereborn.tech/spicetv.m3u8?id=9211
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",SUR CINEMA HD 
+https://allinonereborn.tech/spicetv.m3u8?id=6313
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ADDA TV 
+https://allinonereborn.tech/spicetv.m3u8?id=795
+#EXTINF:-1 tvg-id="in_sonywah.in" tvg-logo="" group-title="Hindi Movies | HINDI",SONY WAH 
+https://allinonereborn.tech/spicetv.m3u8?id=962
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",MOVIE PLUS 
+https://allinonereborn.tech/spicetv.m3u8?id=9224
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ABZY MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=9148
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ISHAARA TV 
+https://allinonereborn.tech/spicetv.m3u8?id=9159
+#EXTINF:-1 tvg-id="in_b4ukadak.in" tvg-logo="" group-title="Hindi Movies | HINDI",B4U KADAK 
+https://allinonereborn.tech/spicetv.m3u8?id=9160
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ABZY COOL 
+https://allinonereborn.tech/spicetv.m3u8?id=9161
+#EXTINF:-1 tvg-id="in_b4umusic.in" tvg-logo="" group-title="Hindi Movies | HINDI",B4U MUSIC CANADA 
+https://allinonereborn.tech/spicetv.m3u8?id=9164
+#EXTINF:-1 tvg-id="uk_b4umusic.uk" tvg-logo="" group-title="Hindi Movies | HINDI",B4U MUSIC UK 
+https://allinonereborn.tech/spicetv.m3u8?id=9165
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",B4U HITZ SD 
+https://allinonereborn.tech/spicetv.m3u8?id=9166
+#EXTINF:-1 tvg-id="b4uplus.ae" tvg-logo="" group-title="Hindi Movies | HINDI",B4U PLUS SD 
+https://allinonereborn.tech/spicetv.m3u8?id=9168
+#EXTINF:-1 tvg-id="in_mtvhdplus.in" tvg-logo="" group-title="Hindi Movies | HINDI",MTV PLUS US 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9169
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",HINDI HITS HD 2 
+https://allinonereborn.tech/spicetv.m3u8?id=9171
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",HINDI HITS HD 1 
+https://allinonereborn.tech/spicetv.m3u8?id=9172
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ENTER 10 
+https://allinonereborn.tech/spicetv.m3u8?id=9177
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",ENTER 10 RANGELLA 
+https://allinonereborn.tech/spicetv.m3u8?id=9178
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",DHINCHAK MOVIES 
+https://allinonereborn.tech/spicetv.m3u8?id=9208
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Movies | HINDI",DHINCHAK MOVIES 2 HD 
+https://allinonereborn.tech/spicetv.m3u8?id=9209
 
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -2430,8 +2596,6 @@ http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/96274
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
-http://89.187.177.137:8081/&FLIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
@@ -2452,6 +2616,49 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_SD_MOB/Fallback/ind
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",HINDI HITS 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=5766
+#EXTINF:-1 tvg-id="in_mtvbeatshd.in" tvg-logo="" group-title="Hindi Music | HINDI",MTV BEATS HD 
+https://allinonereborn.tech/spicetv.m3u8?id=641
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",HINDI BOLLYWOOD PREMIERE 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=8840
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",BOLLYWOOD PREMIERE 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=834
+#EXTINF:-1 tvg-id="in_mtvhdplus.in" tvg-logo="" group-title="Hindi Music | HINDI",MTV PLUS 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=627
+#EXTINF:-1 tvg-id="in_b4umusic.in" tvg-logo="" group-title="Hindi Music | HINDI",B4U MUSIC INDIA 
+https://allinonereborn.tech/spicetv.m3u8?id=5384
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",JUS HINDI 
+https://allinonereborn.tech/spicetv.m3u8?id=260
+#EXTINF:-1 tvg-id="in_mtvbeats.in" tvg-logo="" group-title="Hindi Music | HINDI",MTUNES PLUS 
+https://allinonereborn.tech/spicetv.m3u8?id=5779
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",MUSIC INDIA HINDI 
+https://allinonereborn.tech/spicetv.m3u8?id=779
+#EXTINF:-1 tvg-id="glov" tvg-logo="" group-title="Hindi Music | HINDI",VISION BEATS 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=9127
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",PRIME PLUS 
+https://allinonereborn.tech/spicetv.m3u8?id=5883
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",I LOVE MUSIC 
+https://allinonereborn.tech/spicetv.m3u8?id=9218
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",INSYNC MUSIC 
+https://allinonereborn.tech/spicetv.m3u8?id=9550
+#EXTINF:-1 tvg-id="in_9xm.in" tvg-logo="" group-title="Hindi Music | HINDI",9X MUSIC 
+https://allinonereborn.tech/spicetv.m3u8?id=930
+#EXTINF:-1 tvg-id="in_9xjalwa.in" tvg-logo="" group-title="Hindi Music | HINDI",9X JALWA 
+https://allinonereborn.tech/spicetv.m3u8?id=756
+#EXTINF:-1 tvg-id="in_mastiii.in" tvg-logo="" group-title="Hindi Music | HINDI",MASTIII 
+https://allinonereborn.tech/spicetv.m3u8?id=949
+#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="Hindi Music | HINDI",SHOWBOX 
+https://allinonereborn.tech/spicetv.m3u8?id=5782
+#EXTINF:-1 tvg-id="in_zing.in" tvg-logo="" group-title="Hindi Music | HINDI",ZING 
+https://allinonereborn.tech/spicetv.m3u8?id=750
+#EXTINF:-1 tvg-id="in_zoom.in" tvg-logo="" group-title="Hindi Music | HINDI",ZOOM TV HD 
+https://allinonereborn.tech/spicetv.m3u8?id=744
+#EXTINF:-1 tvg-id="in_vh1.in" tvg-logo="" group-title="Hindi Music | HINDI",VH1 4K 
+https://allinonereborn.tech/spicetv.m3u8?id=1465
+#EXTINF:-1 tvg-id="in_bindass.in" tvg-logo="" group-title="Hindi Music | HINDI",BINDAS 
+https://allinonereborn.tech/spicetv.m3u8?id=865
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
