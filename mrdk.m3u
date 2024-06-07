@@ -73,8 +73,8 @@ https://www.bdtubelive.xyz/new.m3u8?id=158
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="MOVIES", STAR GOLD SELECT HD
 https://www.bdtubelive.xyz/new.m3u8?id=159
 
-#EXTINF:-1 tvg-id="ts632" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="MOVIES";Movies;HD",Star GOLD HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd-2/index.ts
+#EXTINF:-1 tvg-id="ts632" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="MOVIES";Movies;HD",Star GOLD 2
+http://sansat.net:88/02029761595924/9d089925dc60a821/96343
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES";Movies;HD",&pictures HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/and-pictures-hd/index.ts
