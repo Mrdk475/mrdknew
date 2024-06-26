@@ -52,14 +52,16 @@ http://sansat.net:88/02029761595924/9d089925dc60a821/95775
 http://sansat.net:88/02029761595924/9d089925dc60a821//95776
 #EXTINF:-1 tvg-ID="" tvg-name="BENGALI: ZEE BANGLA HD" tvg-logo="" group-title="BENGALI",BENGALI: ZEE BANGLA HD
 http://sansat.net:88/02029761595924/9d089925dc60a821/100716
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/nk-tv-bangla.png" group-title="BENGALI",NK TV Bangla
+https://jio.dinesh29.com.np/live/jio-universal/nk-tv-bangla/index.ts
 
 HINDI MOVIES
 
 #EXTINF:-1  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="MOVIES", Sony MAX HD
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="MOVIES", Sony MAX
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="MOVIES";Movies;HD",Zee Cinema HD
 https://jio.dinesh29.com.np/live/jio-universal/zee-cinema-hd/index.ts
@@ -71,10 +73,16 @@ https://jio.dinesh29.com.np/live/jio-universal/zee-cinema/index.ts
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="MOVIES", STAR GOLD SELECT HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-select-hd/index.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="MOVIES";Movies;HD",Star GOLD 2
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-2/index.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WJq0rdTC1Zt7ubTVatM-o8hf5bFCwMPjtg&s",Star Gold Romance
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjXXuo4sYMGJHn62p6A1uCT6oUMM0oCfihw&s", Star Gold thrills
+https://mrkingtv.shodns.in/hungama.php?id=221258.m3u8
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES";Movies;HD",&pictures HD
 https://jio.dinesh29.com.np/live/jio-universal/and-pictures-hd/index.ts
@@ -94,8 +102,14 @@ https://jio.dinesh29.com.np/live/jio-universal/and-flix-hd/index.ts
 #EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="MOVIES",STAR MOVIES HD
 http://sansat.net:25461/02028857936892/0751169096/93668
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeBvcU5QhZnL40XF4RNT0aXOgSIfZVEP_UA&s", Star Movies HD
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES SELECT HD" tvg-logo="" group-title="MOVIES",STAR MOVIES SELECT HD
 http://sansat.net:25461/02028857936892/0751169096/93669
+
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sl-sony-pix-hd.png" group-title="MOVIES",Sony PIX HD
+https://jio.dinesh29.com.np/live/jio-universal/sl-sony-pix-hd/index.ts
 
 #EXTINF:0 tvg-logo="tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="MOVIES",Zee Action
 https://jio.dinesh29.com.np/live/jio-universal/zee-action/index.ts
@@ -127,6 +141,9 @@ https://jio.dinesh29.com.np/live/jio-universal/b4u-movies/index.ts
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES";Movies",SONY MAX 2
 https://jio.dinesh29.com.np/live/jio-universal/sl-sony-max-2/index.ts
 
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/rdc-movies.png" group-title="MOVIES",RDC Movies
+https://jio.dinesh29.com.np/live/jio-universal/rdc-movies/index.ts
+
 #EXTINF:-1 tvg-id="ts182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="MOVIES";Movies",Cinema TV India
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
@@ -142,7 +159,6 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/bflix/index.ts
 #EXTINF:-1 tvg-id="ts64" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" group-title="MOVIES";Movies",Zee Anmol Cinema
 https://jio.dinesh29.com.np/live/jio-universal/zee-anmol-cinema/index.ts
 
-
 #EXTINF:-1 tvg-id="ts1321" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png" group-title="MOVIES";Movies",ALL Time MOVIES
 https://tplay.dinesh29.com.np/live/tataplay-universal/all-time-movies/index.ts
 
@@ -156,8 +172,28 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/manoranjan-tv/index.ts
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="MOVIES", STAR UTSAV MOVIES
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-utsav-movies/index.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/dd.php?tv=804
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/dd.php?tv=5888
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/dd.php?tv=5885
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO FLIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/dd.php?tv=5886
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",GOLDMINES BOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/dd.php?tv=18342
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",PRIME PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/dd.php?tv=5883
 
 
 #EXTM3U x-tvg-url="https://allinonereborn.tech/epg/aio.xml.gz"
