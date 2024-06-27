@@ -58,7 +58,7 @@ https://jio.dinesh29.com.np/live/jio-universal/nk-tv-bangla/index.ts
 HINDI MOVIES
 
 #EXTINF:-1  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="MOVIES", Sony MAX HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_Max_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="MOVIES", Sony MAX
 https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -118,7 +118,7 @@ https://dai.google.com/ssai/event/WD6N_iiuSUqC8b4VbJtzjA/master.m3u8
 https://dai.google.com/ssai/event/tbJ9dC2cQYikWpc_5upSMw/master.m3u8
 
 #EXTINF:-1 tvg-id="ts727" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="MOVIES";Movies",Zee Classic
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-classic/index.ts
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Classic_SD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="MOVIES";Movies;HD",Colors Cineplex HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
@@ -139,7 +139,10 @@ https://jio.dinesh29.com.np/live/jio-universal/sony-wah/index.ts
 https://jio.dinesh29.com.np/live/jio-universal/b4u-movies/index.ts
 
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES";Movies",SONY MAX 2
-https://jio.dinesh29.com.np/live/jio-universal/sl-sony-max-2/index.ts
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_MAX2_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="809" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="MOVIES",Maha Movies
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Maha_Movies_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/rdc-movies.png" group-title="MOVIES",RDC Movies
 https://jio.dinesh29.com.np/live/jio-universal/rdc-movies/index.ts
@@ -168,6 +171,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/goldmines/index.ts
 #EXTINF:-1 tvg-id="ts731" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="MOVIES";Movies",Manoranjan TV
 https://tplay.dinesh29.com.np/live/tataplay-universal/manoranjan-tv/index.ts
 
+#EXTINF:-1 tvg-id="1281" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="MOVIES",Manoranjan Movies
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Manoranjan_Movies_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ts12" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" group-title="MOVIES";Hindi Movies",Zee Anmol Cinema 2
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.ts
 
