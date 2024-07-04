@@ -38,7 +38,7 @@ https://jio.dinesh29.com.np/live/jio-universal/zee-bangla-hd/index.ts
 https://jio.dinesh29.com.np/live/jio-universal/zee-bangla-sd/index.ts
 #EXTINF:-1 tvg-id="698" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="BENGALI",Aakash Aath
 https://jio.dinesh29.com.np/live/jio-universal/aakash-aath/index.ts
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLiv", Sony AATH
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="BENGALI", Sony AATH
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="BENGALI",Ruposhi Bangla
 https://tplay.dinesh29.com.np/live/tataplay-universal/ruposhi-bangla/index.ts
@@ -84,11 +84,11 @@ https://jio.dinesh29.com.np/live/jio-universal/calcutta-news/index.ts
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 tvg-id="464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="BENGALI News",24 Ghanta TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXTINF:-1 tvg-id="717" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Bangla_BENGALI News.png" group-title="BENGALI News",BENGALI News18 Bangla BENGALI News
+#EXTINF:-1 tvg-id="717" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Bangla_BENGALI News.png" group-title="BENGALI News",News18 Bangla
 https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8?hdnea=st=1659326198~exp=1659412598~acl=/*~hmac=d1629b3a7f14d6e1e9d87d2b4b0047fb53fe0f6523071fe4a6becfe8ed972bb6
 #EXTINF:-1 tvg-id="1735" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="BENGALI News",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="687" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BENGALI News_Time_TV.png" group-title="BENGALI News",BENGALI News Time TV
+#EXTINF:-1 tvg-id="687" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BENGALI News_Time_TV.png" group-title="BENGALI News",News Time TV
 https://jio.dinesh29.com.np/live/jio-universal/news-time-tv/index.ts
 #EXTINF:-1 tvg-id="1264" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="BENGALI News",Kolkata TV
 https://jio.dinesh29.com.np/live/jio-universal/kolkata-tv/index.ts
