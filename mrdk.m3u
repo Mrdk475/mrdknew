@@ -398,11 +398,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="548" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nickelodeon Jr
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=239
-#EXTINF:-1 tvg-id="ts239" tvg-name="Pogo Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2692-j638bugw-v1/imageContent-2692-j638bugw-m1.jpg" group-title="Kids",Pogo
-https://play.denver1769.in/tp2.mpd?id=239
-
 #EXTINF:-1 tvg-id="ts127" tvg-name="Sonic Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8019-j7a7nf68-v1/imageContent-8019-j7a7nf68-m1.jpg" group-title="Kids",Sonic Hindi
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
 
