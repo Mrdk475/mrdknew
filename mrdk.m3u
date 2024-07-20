@@ -81,7 +81,7 @@ BENGALI News
 
 #EXTINF:-1 tvg-id="ts890" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png" group-title="BENGALI News",Republic Bangla
 https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
-#EXTINF:-1 tvg-id="1261" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Calcutta_BENGALI News.png" group-title="BENGALI News",Calcutta News
+#EXTINF:-1 tvg-id="648" group-title="BENGALI News", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png", Calcutta News
 https://jio.dinesh29.com.np/live/jio-universal/calcutta-news/index.ts
 #EXTINF:-1 tvg-id="672" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="BENGALI News",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
