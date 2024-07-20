@@ -373,13 +373,11 @@ https://play.denver1769.in/tp2.mpd?id=905
 #EXTINF:-1 tvg-id="ts867" tvg-logo="https://i.postimg.cc/W3Gg58dY/785a8ff955dc9944d5eee.jpg" group-title="Kids",Gubbare
 https://play.denver1769.in/tp2.mpd?id=867
 
-
-#EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama1
+#EXTINF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama1
 http://port.denver1769.in/ulpl2.php?tv=4019
 
-#EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama2
+#EXTINF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama2
 https://port.denver1769.in/trex.m3u8?id=1097664
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=138
