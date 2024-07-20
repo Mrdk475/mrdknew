@@ -213,10 +213,10 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_MAX2_MOB/Fallback/index.m3u8
 http://sansat.net:25461/02028857936892/0751169096/96305
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/rdc-movies.png" group-title="MOVIES",RDC Movies
-https://jio.dinesh29.com.np/live/jio-universal/rdc-movies/index.ts
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451198.ts
 
 #EXTINF:-1 tvg-id="ts182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="MOVIES";Movies",Cinema TV India
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451178.ts
 
 #EXTINF:-1 tvg-id="ts276" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="MOVIES";Movies",WoW Cinema One
 http://sansat.net:25461/02028857936892/0751169096/96257
