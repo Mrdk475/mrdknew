@@ -27,7 +27,7 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://103.206.104.208:8080/channel/choicetv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="",Gem Bollywood
 http://50.7.218.122:8080/gembollywood/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Action
+#EXoTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Zina wild Hd
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
@@ -84,7 +84,7 @@ https://jio.dinesh29.com.np/live/jio-universal/khushboo-tv/index.ts
 BENGALI News
 
 #EXTINF:-1 tvg-id="ts890" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png" group-title="BENGALI News",Republic Bangla
-https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
 #EXTINF:-1 tvg-id="648" group-title="BENGALI News", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png", Calcutta News
 https://jio.dinesh29.com.np/live/jio-universal/calcutta-news/index.ts
 #EXTINF:-1 tvg-id="672" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="BENGALI News",ABP Ananda
