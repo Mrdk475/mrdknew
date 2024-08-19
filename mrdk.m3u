@@ -175,7 +175,7 @@ https://allinonereborn.com/spice11.m3u8?id=2711
 https://jio.dinesh29.com.np/live/jio-universal/and-flix-sd/index.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="MOVIES",STAR MOVIES HD
-http://sansat.net:25461/02028857936892/0751169096/93668
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeBvcU5QhZnL40XF4RNT0aXOgSIfZVEP_UA&s", Star Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=10223&deviceMac=00:1A:79:07:07:43
