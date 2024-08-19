@@ -50,7 +50,7 @@ https://jio.dinesh29.com.np/live/jio-universal/aakash-aath/index.ts
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="BENGALI", Sony AATH
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="BENGALI",Ruposhi Bangla
-https://tplay.dinesh29.com.np/live/tataplay-universal/ruposhi-bangla/index.ts
+https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="BENGALI",Sun Bangla
 https://livestream.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTINF:-1 tvg-id="690" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="BENGALI",DD Bangla
@@ -98,7 +98,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8?h
 #EXTINF:-1 tvg-id="1735" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bangla.png" group-title="BENGALI News",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="207" group-title="BENGALI News", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-852-j5m9xe80-v1/imageContent-852-j5m9xe80-m1.png", News Time Bangla
-https://jio.dinesh29.com.np/live/jio-universal/news-time-tv/index.ts
+https://cdn3.pishow.tv/live/280/master.m3u8
 #EXTINF:-1 tvg-id="1264" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="BENGALI News",Kolkata TV
 https://jio.dinesh29.com.np/live/jio-universal/kolkata-tv/index.ts
 #EXTINF:-1 tvg-id="1253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="BENGALI News",Kolkata Live
