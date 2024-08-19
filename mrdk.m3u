@@ -81,7 +81,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="BENGALI Movies",Colors Bangla Cinema
 https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
 #EXTINF:-1 tvg-id="1282" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="BENGALI Movies",Khushboo TV
-https://jio.dinesh29.com.np/live/jio-universal/khushboo-tv/index.ts
+https://cdn3.pishow.tv/live/283/master.m3u8
 
 BENGALI News
 
@@ -1138,6 +1138,8 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="Bangladesh" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="Bangladesh" group-title="",Duranto Tv
+https://tv5.hoichoi24.com/1103/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladesh" group-title="",Somoy TV
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangladesh" group-title="",Ekhone TV
@@ -1165,7 +1167,7 @@ https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Deepto Tv FHD
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 
 
