@@ -13,6 +13,8 @@ https://vstechs.in/live/Devine/index.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fccu16-1.fna.fbcdn.net/v/t39.3080…vbkRcjuUXVgDYHcZ4ZNjqot-qjadnWJSoE5dg&oe=663D6A18" group-title="LOCAL BANGLA",D24 BANGLA
 http://103.151.157.112:1935/manik/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", OTT Bangla
+http://82.180.145.236:4518/ottbangla247live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg", Bollywood Classic 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.postimg.cc/SRyj1S5r/bollywood-hd.jpg",Bollywood HD 
