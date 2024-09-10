@@ -207,13 +207,13 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ts730" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png" group-title="MOVIES";Movies",B4U Kadak
-https://tplay.dinesh29.com.np/live/tataplay-universal/b4u-kadak/index.ts
+https://cdn2.pishow.tv/live/160/master.m3u8
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="MOVIES";Movies",Sony Wah
 http://sansat.net:25461/02028857936892/0751169096/96186
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="MOVIES";Movies",B4U Movies
-http://sansat.net:25461/02028857936892/0751169096/96189
+https://cdn2.pishow.tv/live/156/master.m3u8
 
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES";Movies",SONY MAX 2
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_MAX2_MOB/Fallback/index.m3u8
@@ -228,7 +228,7 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451198.ts
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451178.ts
 
 #EXTINF:-1 tvg-id="ts276" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="MOVIES";Movies",WoW Cinema One
-http://sansat.net:25461/02028857936892/0751169096/96257
+https://cdn2.pishow.tv/live/140/master.m3u8
 
 #EXTINF:-1 tvg-id="ts194" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" group-title="MOVIES";Movies",Dangal 2
 https://tplay.dinesh29.com.np/live/tataplay-universal/dangal-2/index.ts
@@ -288,6 +288,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/p
 https://cdn3.pishow.tv/live/279/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",B4u MUSIC
 https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",9x Jalwa
+https://cdn2.pishow.tv/live/133/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="MUSIC CHANNELS", 9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV BEATS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest/scale-to-width-down/250?cb=20191227125237" group-title="MUSIC CHANNELS", MTV BEATS HD
@@ -305,7 +307,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KAPPA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Kappa_tv_Channel_Logo.png" group-title="MUSIC CHANNELS", KAPPA TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTIII" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC CHANNELS", MASTIII
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+https://cdn2.pishow.tv/live/136/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOO MUSIC" tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC CHANNELS", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW BOX" tvg-logo="https://i.ibb.co/tb6nX5k/Picsart-23-06-28-01-36-22-182.png" group-title="MUSIC CHANNELS", SHOW BOX
