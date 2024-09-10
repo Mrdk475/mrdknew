@@ -120,7 +120,7 @@ https://jio.dinesh29.com.np/live/jio-universal/samay-kolkata/index.ts
 #EXTINF:-1 tvg-id="1796" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png" group-title="BENGALI News",Ananda Barta
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/master.m3u8
 #EXTINF:-1 tvg-id="1612" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="BENGALI News",Tara TV
-https://jio.dinesh29.com.np/live/jio-universal/tara-tv/index.ts
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-id="1725" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24hrs_TV.png" group-title="BENGALI News",24Hrs TV
 https://jio.dinesh29.com.np/live/jio-universal/24hrs-tv/index.ts
 #EXTINF:-1 tvg-id="2027" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raatdin_BENGALI News_Network.png" group-title="BENGALI News",Raatdin News Network
@@ -699,7 +699,7 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Bangladesh",TBN 24 USA
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangladesh" group-title="",ATN Music
-https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1242415799.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",SATV TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",DBC NEWS 
