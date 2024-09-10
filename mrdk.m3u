@@ -286,6 +286,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",Dhoom Music
 https://cdn3.pishow.tv/live/279/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",B4u MUSIC
+https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="MUSIC CHANNELS", 9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV BEATS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest/scale-to-width-down/250?cb=20191227125237" group-title="MUSIC CHANNELS", MTV BEATS HD
