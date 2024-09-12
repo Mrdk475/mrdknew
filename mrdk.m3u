@@ -176,7 +176,7 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451241.ts
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/and-flix-sd.png" group-title="MOVIES",& flix SD
 https://jio.dinesh29.com.np/live/jio-universal/and-flix-sd/index.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="MOVIES",STAR MOVIES HD
+#EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="MOVIES",STAR MOVIES
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeBvcU5QhZnL40XF4RNT0aXOgSIfZVEP_UA&s", Star Movies HD
