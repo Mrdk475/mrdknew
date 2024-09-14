@@ -245,7 +245,7 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451178.ts
 https://cdn2.pishow.tv/live/140/master.m3u8
 
 #EXTINF:-1 tvg-id="ts194" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png" group-title="MOVIES";Movies",Dangal 2
-https://tplay.dinesh29.com.np/live/tataplay-universal/dangal-2/index.ts
+http://cdn2.pishow.tv/live/159/master.m3u8
 
 #EXTINF:-1 tvg-id="ts296" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png" group-title="MOVIES";Movies",BFLIX
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
@@ -270,7 +270,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="MOVIES", STAR UTSAV MOVIES
 http://sansat.net:25461/02028857936892/0751169096/96178
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES", Movie Plus
+EXTINF:-1 tvg-id="Movie Plus.in" tvg-logo="https://iili.io/JcpVyGV.md.png" group-title="MOVIES",Movie Plus
 https://cdn1.pishow.tv/live/222/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO CLASSIC
