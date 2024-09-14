@@ -31,8 +31,13 @@ http://103.206.104.208:8080/channel/choicetv/index.m3u8
 http://50.7.218.122:8080/gembollywood/index.m3u8
 #EXoTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXoTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Fashion TV
+https://cdn1.pishow.tv/live/278/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Zina wild Hd
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", NGC HD
+https://cdn1.pishow.tv/live/252/master.m3u8
 BENGALI
 
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="BENGALI",Star Jalsha HD
@@ -265,9 +270,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR UTSAV MOVIES" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="MOVIES", STAR UTSAV MOVIES
 http://sansat.net:25461/02028857936892/0751169096/96178
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://port.denver1769.in/dd.php?tv=5888
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", Movie Plus
+https://cdn1.pishow.tv/live/222/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -299,6 +303,8 @@ https://cdn3.pishow.tv/live/279/master.m3u8
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",9x Jalwa
 https://cdn2.pishow.tv/live/133/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",9x Jhakaas
+https://cdn1.pishow.tv/live/219/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="MUSIC CHANNELS", 9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV BEATS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest/scale-to-width-down/250?cb=20191227125237" group-title="MUSIC CHANNELS", MTV BEATS HD
