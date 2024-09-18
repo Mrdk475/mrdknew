@@ -236,7 +236,7 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_MAX2_MOB/Fallback/index.m3u8
 http://sansat.net:25461/02028857936892/0751169096/96305
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/rdc-movies.png" group-title="MOVIES",RDC Movies
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451198.ts
+https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
 #EXTINF:-1 tvg-id="ts182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="MOVIES";Movies",Cinema TV India
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451178.ts
@@ -254,7 +254,7 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema1.m3u8
 
 #EXTINF:-1 tvg-id="ts1321" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png" group-title="MOVIES";Movies",ALL Time MOVIES
-https://tplay.dinesh29.com.np/live/tataplay-universal/all-time-movies/index.ts
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451198.ts
 
 #EXTINF:-1 tvg-id="ts823" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES";Movies",Goldmines
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451326.ts
