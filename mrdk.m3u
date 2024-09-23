@@ -199,6 +199,9 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451276.ts
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", Movies Now
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451284.ts
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/sl-sony-pix-hd.png" group-title="MOVIES",Sony PIX HD
 http://sansat.net:25461/02028857936892/0751169096/96182
 
@@ -364,7 +367,7 @@ https://play.denver1769.in/tp2.mpd?id=816
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=238
 #EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11159-j99h64r4-v1/imageContent-11159-j99h64r4-m1.jpg" group-title="Kids",Cartoon Network TP
-https://play.denver1769.in/tp2.mpd?id=238
+http://103.110.110.11:8081/live/cartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11159-j99h64r4-v1/imageContent-11159-j99h64r4-m1.jpg" group-title="Kids",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
