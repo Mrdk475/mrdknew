@@ -89,9 +89,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
 #EXTINF:-1 tvg-id="1282" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="BENGALI Movies",Khushboo TV
 https://cdn3.pishow.tv/live/283/master.m3u8
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="BENGALI Movies" group-title="",Sananda TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU"group-title="BENGALI Movies" group-title="",Sananda TV
 http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-logo="" group-title="BENGALI Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
+#EXTINF:-1 tvg-logo="" group-title="BENGALI Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movie%20Bangla.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 BENGALI News
@@ -236,7 +236,7 @@ http://sansat.net:25461/02028857936892/0751169096/96186
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="MOVIES";Movies",B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="MOVIES" group-title="",B4U Movies HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="MOVIES",B4U Movies HD
 https://api.iptvbd.xyz/api/b4u_movies.m3u8
 
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES";Movies",SONY MAX 2
