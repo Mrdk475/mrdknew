@@ -143,7 +143,7 @@ HINDI MOVIES
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="MOVIES", Sony MAX
-https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+https://api.iptvbd.xyz/api/sony_max.m3u8
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="MOVIES";Movies;HD",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
@@ -240,7 +240,7 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 https://api.iptvbd.xyz/api/b4u_movies.m3u8
 
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES";Movies",SONY MAX 2
-https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_MAX2_MOB/Fallback/index.m3u8
+https://api.iptvbd.xyz/api/sony_max_2.m3u8
 
 #EXTINF:-1 tvg-id="809" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="MOVIES",Maha Movies
 http://sansat.net:25461/02028857936892/0751169096/96305
