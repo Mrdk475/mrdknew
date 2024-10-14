@@ -7,12 +7,16 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Mon TV
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Home TV
+https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",pvc Movie 
 https://vstechs.in/live/Devine/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fccu16-1.fna.fbcdn.net/v/t39.3080…vbkRcjuUXVgDYHcZ4ZNjqot-qjadnWJSoE5dg&oe=663D6A18" group-title="LOCAL BANGLA",D24 BANGLA
 http://103.151.157.112:1935/manik/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Zoiak TV
+https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", OTT Bangla
 http://82.180.145.236:4518/ottbangla247live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg", Bollywood Classic 
