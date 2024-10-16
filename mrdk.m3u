@@ -1,4 +1,4 @@
-#EXTM3U
+h#EXTM3U
 #EXTINF: -1 tvg-id="MRDK Tv" tvg-logo="https://i.ibb.co/0Gz2gLd/pngimg-com-telegram-PNG28.png" group-title="",MRDK Tv
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
@@ -63,7 +63,7 @@ https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="BENGALI",Ruposhi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="BENGALI",Sun Bangla
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451333.ts
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2184.m3u8
 #EXTINF:-1 tvg-id="690" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="BENGALI",DD Bangla
 https://jio.dinesh29.com.np/live/jio-universal/dd-bangla/index.ts
 #EXTINF:-1 tvg-id="ts788" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="BENGALI",Enterr10 Bangla
