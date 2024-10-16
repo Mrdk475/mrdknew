@@ -1,4 +1,4 @@
-h#EXTM3U
+#EXTM3U
 #EXTINF: -1 tvg-id="MRDK Tv" tvg-logo="https://i.ibb.co/0Gz2gLd/pngimg-com-telegram-PNG28.png" group-title="",MRDK Tv
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
@@ -249,7 +249,9 @@ http://172.105.123.238:18002/play/a01q
 https://cdn2.pishow.tv/live/156/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="MOVIES",B4U Movies HD
-https://api.iptvbd.xyz/api/b4u_movies.m3u8
+EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1729196137:KeyName=prod_linear:Signature=maLYTXbs1HzdXYIMeG_-kCs2DqGr7lH94fi4NRQiDUolmODzz4Sh3FkSg5G-YSnOYhOZyrlQcx8yE06ylV5nDg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="MOVIES";Movies",SONY MAX 2
 https://api.iptvbd.xyz/api/sony_max_2.m3u8
