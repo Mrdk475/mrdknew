@@ -61,7 +61,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="BENGALI",Zee Bangla
 http://217.20.112.199/zeebangla/index.m3u8
 #EXTINF:-1 tvg-id="698" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="BENGALI",Aakash Aath
-https://jio.dinesh29.com.np/live/jio-universal/aakash-aath/index.ts
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2182.m3u8
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="BENGALI", Sony AATH
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="BENGALI",Ruposhi Bangla
@@ -69,7 +69,7 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="BENGALI",Sun Bangla
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2184.m3u8
 #EXTINF:-1 tvg-id="690" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="BENGALI",DD Bangla
-https://jio.dinesh29.com.np/live/jio-universal/dd-bangla/index.ts
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2183.m3u8
 #EXTINF:-1 tvg-id="ts788" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="BENGALI",Enterr10 Bangla
 https://tplay.dinesh29.com.np/live/tataplay-universal/enterr10-bangla/index.ts
 #EXTINF:-1 tvg-id="1260" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="BENGALI",Ctvn Akd Plus
@@ -90,6 +90,7 @@ https://jio.dinesh29.com.np/live/jio-universal/rongeen-tv/index.ts
 BENGALI Movies
 
 #EXTINF:-1 tvg-id="ts537" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="BENGALI Movies",Jalsha Movies HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
 http://103.190.85.38/hls/zeemovie.m3u8
@@ -169,12 +170,13 @@ http://217.20.112.199/zeecinema/index.m3u8
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="MOVIES";Movies;HD",STAR GOLD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="MOVIES";Movies;HD",STAR GOLD HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451351.ts
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI: STAR GOLD SELECT HD" tvg-logo="http://vodkom.com:25461/Logo/INDIA/" group-title="MOVIES", STAR GOLD SELECT HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-SELECT-HD/live.mpd
 
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-19212-jd2xwa4w-v1/imageContent-19212-jd2xwa4w-m1.png" group-title="MOVIES";Movies;HD",Star GOLD 2
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2193.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WJq0rdTC1Zt7ubTVatM-o8hf5bFCwMPjtg&s",Star Gold Romance
@@ -197,12 +199,13 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451314.ts
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451313.ts
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/and-flix-hd.png" group-title="MOVIES",&Flix HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451241.ts
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2219.m3u8
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/and-flix-sd.png" group-title="MOVIES",& flix SD
 https://jio.dinesh29.com.np/live/jio-universal/and-flix-sd/index.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="MOVIES",STAR MOVIES
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2217.m3u8
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmeBvcU5QhZnL40XF4RNT0aXOgSIfZVEP_UA&s", Star Movies HD
@@ -214,11 +217,14 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES",MN Plus
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451251.ts
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES",MNX 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2224.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES",Zee Cafe
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451276.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", Movies Now
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451284.ts
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2225.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
@@ -464,7 +470,7 @@ https://play.denver1769.in/tp2.mpd?id=905
 https://play.denver1769.in/tp2.mpd?id=867
 
 #EXTINF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama1
-http://port.denver1769.in/ulpl2.php?tv=4019
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2230.m3u8
 
 #EXTINF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama2
 https://port.denver1769.in/trex.m3u8?id=1097664
