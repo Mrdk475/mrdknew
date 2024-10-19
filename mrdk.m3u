@@ -41,8 +41,8 @@ http://103.206.104.208:8080/channel/choicetv/index.m3u8
 http://50.7.218.122:8080/gembollywood/index.m3u8
 #EXoTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXoTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Fashion TV
-https://cdn1.pishow.tv/live/278/master.m3u8
+#EXoTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", hits TV
+http://172.105.123.238:18002/play/a05d
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Zina wild Hd
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 
@@ -185,7 +185,7 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-GOLD
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjXXuo4sYMGJHn62p6A1uCT6oUMM0oCfihw&s", Star Gold thrills
-http://103.84.57.155:8000/play/a0c7/index.m3u8
+http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES";Movies;HD",&pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
