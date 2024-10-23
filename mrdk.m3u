@@ -198,7 +198,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/andpictures.m3u
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451314.ts
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/and-prive-hd.png" group-title="MOVIES",&Prive HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451313.ts
+http://suprino.xyz/live/PMF3J9X/BV7HG8H/34717.ts
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/and-flix-hd.png" group-title="MOVIES",&Flix HD
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2219.m3u8
@@ -217,10 +217,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=10223&deviceMac=00:1A:79:07:0
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-MOVIE
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES",MN Plus
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451251.ts
+http://suprino.xyz/live/PMF3J9X/BV7HG8H/34699.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES",MNX 
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2224.m3u8
+http://suprino.xyz/live/PMF3J9X/BV7HG8H/34698.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES",Zee Cafe
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451276.ts
@@ -278,8 +278,8 @@ http://sansat.net:25461/02028857936892/0751169096/96305
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/rdc-movies.png" group-title="MOVIES",RDC Movies
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
-#EXTINF:-1 tvg-id="ts182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="MOVIES";Movies",Cinema TV India
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451178.ts
+#EXTINF:-1 tvg-id="ts182" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png" group-title="MOVIES";Movies",MH one
+http://suprino.xyz/live/PMF3J9X/BV7HG8H/34510.ts
 
 #EXTINF:-1 tvg-id="ts276" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png" group-title="MOVIES";Movies",WoW Cinema One
 https://cdn2.pishow.tv/live/140/master.m3u8
