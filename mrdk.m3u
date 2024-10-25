@@ -139,6 +139,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/nktv-bangla/index.ts
 https://ubangla.akamaized.net/hls/ubangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BENGALI News" tvg-logo="",Bangla jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BENGALI News" tvg-logo="",Tribe Tv
+https://server.livelegitpro.in/tribetv/tribetv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BENGALI News" tvg-logo="", High NEWS
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BENGALI News" tvg-logo="", Express NEwS
