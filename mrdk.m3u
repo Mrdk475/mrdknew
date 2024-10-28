@@ -58,14 +58,16 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 #EXTINF:-1 tvg-id="1369" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="BENGALI",Colors Bangla SD
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=COLORS-BANGLA
 #EXTINF:-1 tvg-id="ts305" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="BENGALI",Colors Bangla HD
+http://tv.cloudcdn.me/live.ts?channelId=92&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="BENGALI",Zee Bangla HD
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-BANGLA
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="BENGALI",Zee Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=10223&deviceMac=00:1A:79:07:07:43
 http://217.20.112.199/zeebangla/index.m3u8
 #EXTINF:-1 tvg-id="698" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="BENGALI",Aakash Aath
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2182.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="BENGALI", Sony AATH
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="BENGALI",Ruposhi Bangla
@@ -89,7 +91,7 @@ https://jio.dinesh29.com.np/live/jio-universal/bangla-bhakti/index.ts
 #EXTINF:-1 tvg-id="1740" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Purnima_TV.png" group-title="BENGALI",Purnima TV
 https://jio.dinesh29.com.np/live/jio-universal/purnima-tv/index.ts
 #EXTINF:-1 tvg-id="1667" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rongeen_TV.png" group-title="BENGALI",Rongeen TV
-https://jio.dinesh29.com.np/live/jio-universal/rongeen-tv/index.ts
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 BENGALI Movies
 
@@ -99,6 +101,7 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=JALSHA-MOVIES
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
 http://103.190.85.38/hls/zeemovie.m3u8
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="BENGALI Movies",Zee Bangla Cinema
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-BANGLA-CINEMA
 #EXTINF:-1 tvg-id="1657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="BENGALI Movies",Colors Bangla Cinema
 https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
@@ -169,6 +172,7 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-MAX
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="MOVIES";Movies;HD",Zee Cinema HD
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-CINEMA
 
 #EXTINF:-1 tvg-id="ts123" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" group-title="MOVIES";Movies",Zee Cinema
@@ -194,14 +198,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=10223&deviceMac=00:1A:79:0
 http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES";Movies;HD",&pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="MOVIES";Movies",&pictures
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=AND-PICTURE
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/andpictures.m3u8
 
 #EXTINF:-1 tvg-id="ts1183" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="MOVIES";Movies",&Xplor HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451314.ts
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/and-prive-hd.png" group-title="MOVIES",&Prive HD
 http://suprino.xyz/live/PMF3J9X/BV7HG8H/34717.ts
@@ -251,16 +255,16 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="MOVIES",Zee Action
-http://172.105.123.238:18002/play/a01r
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES";Movies",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 
 #EXTINF:-1 tvg-id="ts727" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png" group-title="MOVIES";Movies",Zee Classic
-http://14.102.123.50:5001/live/1691.m3u8
+https://la.drmlive.au/tp/zee-zeeclassic.m3u8
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="MOVIES";Movies;HD",Colors Cineplex HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+http://xtv.ooo:8080/live/boss7770035788/navid@47855098/206315.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" ,Colors Cineplex Bollywood
 http://172.105.123.238:18002/play/a011
