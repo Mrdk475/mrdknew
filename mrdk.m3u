@@ -244,6 +244,9 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2225.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", ROMEDY NOW
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=MOVIE-NOW
 
