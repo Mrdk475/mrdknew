@@ -174,7 +174,7 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=SONY-MAX
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="MOVIES";Movies;HD",Zee Cinema HD
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-CINEMA
 
 #EXTINF:-1 tvg-id="ts123" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" group-title="MOVIES";Movies",Zee Cinema
@@ -200,7 +200,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=10223&deviceMac=00:1A:79:0
 http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES";Movies;HD",&pictures HD
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+https://la.drmlive.au/tp/zee-andpictures.m3u8
 
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="MOVIES";Movies",&pictures
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=AND-PICTURE
