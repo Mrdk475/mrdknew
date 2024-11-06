@@ -200,7 +200,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=10223&deviceMac=00:1A:79:0
 http://172.105.123.238:18002/play/a01h
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="MOVIES";Movies;HD",&pictures HD
-https://la.drmlive.au/tp/zee-andpictures.m3u8
+https://la.drmlive.au/tp/zee-pictures.m3u8
 
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" group-title="MOVIES";Movies",&pictures
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=AND-PICTURE
