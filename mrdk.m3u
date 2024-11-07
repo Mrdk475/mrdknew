@@ -378,6 +378,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",Dhoom Music
 https://cdn3.pishow.tv/live/279/master.m3u8
+#EXTINF:-1 group-title="MUSIC CHANNELS" ,tvg-id="MTV.in",MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",B4u MUSIC
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",9x Jalwa
