@@ -275,18 +275,19 @@ https://live.drmlive-02.workers.dev/jc/1477.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" ,Colors Cineplex Bollywood
 https://live.drmlive-02.workers.dev/jc/1763.m3u8
+http://172.105.123.238:18002/play/a011
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" ,Colors Cineplex Superhits
 http://172.105.123.238:18002/play/a015
 
 #EXTINF:-1 tvg-id="ts730" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png" group-title="MOVIES";Movies",B4U Kadak
-https://cdn2.pishow.tv/live/160/master.m3u8
+http://172.105.123.238:18002/play/a019
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png" group-title="MOVIES";Movies",Sony Wah
 http://172.105.123.238:18002/play/a01q
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" group-title="MOVIES";Movies",B4U Movies
-https://cdn2.pishow.tv/live/156/master.m3u8
+http://172.105.123.238:18002/play/a00d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="MOVIES",B4U Movies HD
 EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
@@ -354,14 +355,13 @@ https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 http://172.105.123.238:18002/play/a01n
 
 #EXTINF:-1 tvg-id="Movie Plus.in" tvg-logo="https://iili.io/JcpVyGV.md.png" group-title="MOVIES",Movie Plus
-https://cdn1.pishow.tv/live/222/master.m3u8
+http://172.105.123.238:18002/play/a016
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",FILMY WORLD
 http://tv.cloudcdn.me:80/live.ts?channelId=409&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO FLIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://port.denver1769.in/dd.php?tv=5886
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",BBO
+http://tv.cloudcdn.me/live.ts?channelId=86148&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",UNIQUE TV
 http://172.105.123.238:18002/play/a01e
@@ -383,7 +383,7 @@ https://cdn3.pishow.tv/live/279/master.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNELS" ,tvg-id="MTV.in",MTV HD
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",B4u MUSIC
-https://cdn2.pishow.tv/live/141/master.m3u8
+http://172.105.123.238:18002/play/a00a
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",9x Jalwa
 https://cdn2.pishow.tv/live/133/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",9x Jhakaas
