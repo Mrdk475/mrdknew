@@ -410,7 +410,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.
 #EXTINF:-1 tvg-id="" tvg-name="9X TASHAN" tvg-logo="https://i.ibb.co/D5gRqdk/Picsart-23-06-07-12-04-36-664.png" group-title="MUSIC CHANNELS", 9X TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="https://i.ibb.co/dr16d02/Picsart-23-06-30-23-39-14-937.png" group-title="MUSIC CHANNELS", ZOOM
-http://144.217.70.181:9587/hin2/ZOOM/index.m3u8
+https://d1g66oqspoyxao.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HINDI HITS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg" group-title="MUSIC CHANNELS", HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="MUSIC CHANNELS" group-title="",E24
