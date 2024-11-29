@@ -244,6 +244,9 @@ https://la.drmlive.au/tp/zee-zeecafehd.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", Movies Now
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2225.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", Netflix Action 
+https://tiger-hub.vercel.app/Mehedi-hasan/Netflix-action.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="MOVIES", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
@@ -382,6 +385,8 @@ Music
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",24*7 Music
+https://tiger-hub.vercel.app/Mehedi-hasan/24×7_Hindy-music.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",Sagamusic
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS", Music Masti
