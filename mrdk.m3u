@@ -545,6 +545,9 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2230.m3u8
 #EXTINF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama2
 https://port.denver1769.in/trex.m3u8?id=1097664
 
+#EXTINF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="" group-title="Kids",Minimax
+https://livetranscode.com/Minimax/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=138
 #EXTINF:-1 tvg-id="ts138" tvg-name="Nick Hindi" tvg-logo="https://i.postimg.cc/Wbx2Wv0z/b3f33e2be63b9b2bde6a4.jpg" group-title="Kids",Nick
