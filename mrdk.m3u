@@ -51,7 +51,7 @@ http://89.179.247.144/hls/mixm.m3u8
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", NGC HD
-https://cdn1.pishow.tv/live/252/master.m3u8
+http://cflare.mooo.com/test/natgeo.m3u8
 BENGALI
 
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="BENGALI",Star Jalsha HD
