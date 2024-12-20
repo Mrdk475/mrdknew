@@ -43,8 +43,8 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="",CHOICE TV
 http://103.206.104.208:8080/channel/choicetv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="",Gem Bollywood
-http://50.7.218.122:8080/gembollywood/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="",Hasti Tv
+https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA" tvg-logo="", hits TV
