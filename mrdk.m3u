@@ -18,7 +18,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF:-1 tvg-logo="https://scontent.fccu16-1.fna.fbcdn.net/v/t39.3080…vbkRcjuUXVgDYHcZ4ZNjqot-qjadnWJSoE5dg&oe=663D6A18" group-title="LOCAL BANGLA",D24 BANGLA
 http://103.151.157.112:1935/manik/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Zoiak TV
-https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/playlist.m3u8
+https://your-abbu.pages.dev/zodiaktv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Sristi TV
+https://your-abbu.pages.dev/sristitv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", OTT Bangla
 http://82.180.145.236:4518/ottbangla247live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", SRK tv
@@ -152,6 +154,8 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 https://server.livelegitpro.in/tribetv/tribetv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BENGALI News" tvg-logo="", High NEWS
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BENGALI News" tvg-logo="", Zilar Barta
+https://your-abbu.pages.dev/zillarbarta.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BENGALI News" tvg-logo="", Express NEwS
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/expressnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="2228" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="BENGALI News",Samay Kolkata
@@ -160,6 +164,8 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/master.m3u8
 #EXTINF:-1 tvg-id="1612" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="BENGALI News",Tara TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 tvg-id="1612" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="BENGALI News",Tara TV
+https://your-abbu.pages.dev/taratv.m3u8
 #EXTINF:-1 tvg-id="1725" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24hrs_TV.png" group-title="BENGALI News",24Hrs TV
 https://jio.dinesh29.com.np/live/jio-universal/24hrs-tv/index.ts
 #EXTINF:-1 tvg-id="2027" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raatdin_BENGALI News_Network.png" group-title="BENGALI News",Raatdin News Network
