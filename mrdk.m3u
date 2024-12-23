@@ -21,6 +21,8 @@ http://103.151.157.112:1935/manik/live/playlist.m3u8
 https://your-abbu.pages.dev/zodiaktv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Sristi TV
 https://your-abbu.pages.dev/sristitv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",RB Bangla
+https://tiger-hub.vercel.app/Live_tv/Rb_bangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", OTT Bangla
 http://82.180.145.236:4518/ottbangla247live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", SRK tv
