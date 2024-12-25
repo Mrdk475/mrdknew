@@ -59,21 +59,17 @@ http://cflare.mooo.com/test/natgeo.m3u8
 BENGALI
 
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="BENGALI",Star Jalsha HD
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=10223&deviceMac=00:1A:79:07:07:43
-http://217.20.112.199/starjalshahd/index.m3u8
+https://tiger-hub.vercel.app/Live_tv/Star_jalsha.m3u8
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="BENGALI",Star Jalsha 
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 #EXTINF:-1 tvg-id="1369" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="BENGALI",Colors Bangla SD
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=COLORS-BANGLA
+https://tiger-hub.vercel.app/Live_tv/Colors_bangla.m3u8
 #EXTINF:-1 tvg-id="ts305" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="BENGALI",Colors Bangla HD
-http://tv.cloudcdn.me/live.ts?channelId=92&uid=15585&deviceMac=00:1A:79:D9:7F:BB
-http://217.20.112.199/colorsbangla/index.m3u8
+
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="BENGALI",Zee Bangla HD
 https://la.drmlive.au/tp/zee-zeebangla.m3u8
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-BANGLA
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="BENGALI",Zee Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=10223&deviceMac=00:1A:79:07:07:43
-http://217.20.112.199/zeebangla/index.m3u8
+https://tiger-hub.vercel.app/Live_tv/Zee_bangla.m3u8
 #EXTINF:-1 tvg-id="698" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="BENGALI",Aakash Aath
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="BENGALI", Sony AATH
