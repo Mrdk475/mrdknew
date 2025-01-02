@@ -434,7 +434,7 @@ http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KAPPA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Kappa_tv_Channel_Logo.png" group-title="MUSIC CHANNELS", KAPPA TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTIII" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC CHANNELS", MASTIII
-https://cdn2.pishow.tv/live/136/master.m3u8
+https://sabliveyupp.akamaized.net/mastii/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JOO MUSIC" tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC CHANNELS", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW BOX" tvg-logo="https://i.ibb.co/tb6nX5k/Picsart-23-06-28-01-36-22-182.png" group-title="MUSIC CHANNELS", SHOW BOX
