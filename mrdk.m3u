@@ -65,12 +65,13 @@ BENGALI
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="BENGALI",Star Jalsha HD
 https://tiger-hub.vercel.app/Live_tv/Star_jalsha.m3u8
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="BENGALI",Star Jalsha 
-http://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+https://baskardo.vip/IN_JALSHAS/index.m3u8
 #EXTINF:-1 tvg-id="1369" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="BENGALI",Colors Bangla SD
 https://tiger-hub.vercel.app/Live_tv/Colors_bangla.m3u8
 #EXTINF:-1 tvg-id="ts305" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="BENGALI",Colors Bangla HD
-
+https://baskardo.vip/IN_ColorsBengali/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="BENGALI",Zee Bangla HD
+https://baskardo.vip/IN_ZEBS/index.m3u8
 https://la.drmlive.au/tp/zee-zeebangla.m3u8
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="BENGALI",Zee Bangla
 https://tiger-hub.vercel.app/Live_tv/Zee_bangla.m3u8
@@ -189,11 +190,10 @@ https://la.drmlive.au/tp/zee-zeecinema.m3u8
 
 #EXTINF:-1 tvg-id="ts123" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" group-title="MOVIES";Movies",Zee Cinema
 http://103.205.133.71/ZeeCinemaFHD/index.m3u8
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
+https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="MOVIES";Movies;HD",STAR GOLD
-http://103.205.133.71/StarGoldFHD/index.m3u8
-https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+https://baskardo.vip/IN_STGOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="MOVIES";Movies;HD",STAR GOLD HD
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2192.m3u8
