@@ -123,6 +123,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://103.101.197.10:8989/M_Movies/index.m3u8
 EXTINF: -1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="BENGALI Movies", Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BENGALI Movies" tvg-logo="", Alpona Tv
+https://app.ncare.live/live-orgin/alponatv.stream/playlist.m3u8
 
 BENGALI News
 
