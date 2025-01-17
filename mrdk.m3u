@@ -339,7 +339,7 @@ https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 http://172.105.123.238:18002/play/a00i
 
 #EXTINF:-1 tvg-id="ts823" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES";Movies",Goldmines
-http://172.105.123.238:18002/play/a00z
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-id="ts823" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES";Movies",Goldmines Movies
 http://172.105.123.238:18002/play/a01j
