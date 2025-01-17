@@ -342,10 +342,10 @@ http://172.105.123.238:18002/play/a00i
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-id="ts823" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES";Movies",Goldmines Movies
-http://172.105.123.238:18002/play/a01j
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-id="ts823" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="MOVIES";Movies",Goldmines bollywood
-http://172.105.123.238:18002/play/a012
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-id="ts731" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="MOVIES";Movies",Manoranjan TV
 http://172.105.123.238:18002/play/a01a
