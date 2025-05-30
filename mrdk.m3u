@@ -29,10 +29,10 @@ http://103.151.157.112:1935/manik/live/playlist.m3u8
 https://your-abbu.pages.dev/zodiaktv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Green Chili TV
 https://kala-bilay.vercel.app/Live/TV/green-chillies-tv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Music Bangla
-https://fr.globalplay.live/Music-bangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", OTT Bangla
-http://82.180.145.236:4518/ottbangla247live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Shemaroo Bangla
+http://103.145.48.150:90/laosat24/shemarootv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Filmy Bangla
+http://103.145.48.150:90/laosat24/filmytv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", SRK tv
 https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gaundapunjablive.com/wp-content/uploads/2017/06/BBC-LOGO-MADE.png" group-title="LOCAL BANGLA",BBC Toronto
