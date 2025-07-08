@@ -74,16 +74,15 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="BENGALI",Star Jalsha 
 https://baskardo.vip/IN_JALSHAS/index.m3u8
 #EXTINF:-1 tvg-id="1369" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="BENGALI",Colors Bangla SD
-https://tiger-hub.vercel.app/Live_tv/Colors_bangla.m3u8
+http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="ts305" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="BENGALI",Colors Bangla HD
 https://baskardo.vip/IN_ColorsBengali/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="BENGALI",Zee Bangla HD
-https://baskardo.vip/IN_ZEBS/index.m3u8
-https://la.drmlive.au/tp/zee-zeebangla.m3u8
+http://38.96.178.201/live/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="BENGALI",Zee Bangla
 https://tiger-hub.vercel.app/Live_tv/Zee_bangla.m3u8
 #EXTINF:-1 tvg-id="698" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="BENGALI",Aakash Aath
-http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
+http://38.96.178.201/live/AkashAath/index.m3u8
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="BENGALI", Sony AATH
 https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #EXTINF:-1 tvg-id="ts3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="BENGALI",Ruposhi Bangla
@@ -407,7 +406,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/p
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS", Music Masti
 http://cdn12.henico.net:8080/live/musicmasti/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC CHANNELS",Dhoom Music
-https://cdn3.pishow.tv/live/279/master.m3u8
+http://38.96.178.201/live/Dhoom/index.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNELS" ,tvg-id="",Hariyana Hits
 http://146.59.253.52:8080/haryanvi_hitstv/index.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNELS" ,tvg-id="", Punjabi Beat
