@@ -5,19 +5,20 @@
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="LOCAL BANGLA",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Mon TV
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Mon Tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Home TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Hindi Song
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",R bangla Tv
 http://150.129.178.198:8086/0.ts
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Journal Tv
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",J Classic 
-https://your-abbu.pages.dev/JClassic.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",J Bangla
-https://your-abbu.pages.dev/JBangla.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Bangla Song
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Hindi Movie
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Bangla Movie
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",pvc Movie 
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 https://vstechs.in/live/Devine/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",bhi channel 
 http://15.235.185.236/hls/bhi.m3u8
@@ -25,8 +26,8 @@ http://15.235.185.236/hls/bhi.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fccu16-1.fna.fbcdn.net/v/t39.3080…vbkRcjuUXVgDYHcZ4ZNjqot-qjadnWJSoE5dg&oe=663D6A18" group-title="LOCAL BANGLA",D24 BANGLA
 http://103.151.157.112:1935/manik/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Zoiak TV
-https://your-abbu.pages.dev/zodiaktv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",South Movie 
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA",Green Chili TV
 https://kala-bilay.vercel.app/Live/TV/green-chillies-tv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Shemaroo Bangla
@@ -35,8 +36,10 @@ http://103.145.48.150:90/laosat24/shemarootv/index.m3u8
 http://103.145.48.150:90/laosat24/filmytv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", SRK tv
 https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gaundapunjablive.com/wp-content/uploads/2017/06/BBC-LOGO-MADE.png" group-title="LOCAL BANGLA",BBC Toronto
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Cartoon Bangla
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Cartoon Bangla 2
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="LOCAL BANGLA", comedy thadka
 https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/0abe00bb-b6f3-4dcd-bdf6-12e74e08216c/dcd3b61a-106a-4eb4-b6d6-b5921dbe3b0d/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LOCAL BANGLA", Bollywood 4u Movies
